@@ -233,16 +233,6 @@ Personal portfolio showcasing DevOps projects with automated CI/CD deployment us
 
 <div align="center">
 
-### 📊 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/MrSiddu73/count.svg)
-
-### ⭐ Star My Repositories If You Find Them Useful!
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 **Made with ❤️ and ☕ by Siddu Nyamagoud**
